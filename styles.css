@@ -28,7 +28,7 @@ body {
 .bg__image--bgtwo {
     height: 50vh;
     top: 30%;
-    right: 25%;
+    right: -25%;
     opacity: 0.25;
 }
 .logo__img {
